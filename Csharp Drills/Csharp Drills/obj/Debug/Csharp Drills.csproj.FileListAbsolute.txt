@@ -4,3 +4,9 @@ C:\Users\tonywittingerllc\Documents\GitHub\c#\Csharp Drills\Csharp Drills\bin\De
 C:\Users\tonywittingerllc\Documents\GitHub\c#\Csharp Drills\Csharp Drills\obj\Debug\Csharp Drills.exe
 C:\Users\tonywittingerllc\Documents\GitHub\c#\Csharp Drills\Csharp Drills\obj\Debug\Csharp Drills.pdb
 C:\Users\tonywittingerllc\Documents\GitHub\c#\Csharp Drills\Csharp Drills\obj\Debug\Csharp Drills.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\cSharp\Csharp Drills\Csharp Drills\bin\Debug\Csharp Drills.exe.config
+C:\Users\Owner\Documents\GitHub\cSharp\Csharp Drills\Csharp Drills\obj\Debug\Csharp Drills.exe
+C:\Users\Owner\Documents\GitHub\cSharp\Csharp Drills\Csharp Drills\obj\Debug\Csharp Drills.pdb
+C:\Users\Owner\Documents\GitHub\cSharp\Csharp Drills\Csharp Drills\bin\Debug\Csharp Drills.exe
+C:\Users\Owner\Documents\GitHub\cSharp\Csharp Drills\Csharp Drills\bin\Debug\Csharp Drills.pdb
+C:\Users\Owner\Documents\GitHub\cSharp\Csharp Drills\Csharp Drills\obj\Debug\Csharp Drills.csprojResolveAssemblyReference.cache

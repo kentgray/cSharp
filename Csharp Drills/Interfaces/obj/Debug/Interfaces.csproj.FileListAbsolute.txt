@@ -1,0 +1,6 @@
+C:\Users\Owner\Documents\GitHub\cSharp\Csharp Drills\Interfaces\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\cSharp\Csharp Drills\Interfaces\bin\Debug\Interfaces.exe.config
+C:\Users\Owner\Documents\GitHub\cSharp\Csharp Drills\Interfaces\bin\Debug\Interfaces.exe
+C:\Users\Owner\Documents\GitHub\cSharp\Csharp Drills\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\Owner\Documents\GitHub\cSharp\Csharp Drills\Interfaces\obj\Debug\Interfaces.exe
+C:\Users\Owner\Documents\GitHub\cSharp\Csharp Drills\Interfaces\obj\Debug\Interfaces.pdb
