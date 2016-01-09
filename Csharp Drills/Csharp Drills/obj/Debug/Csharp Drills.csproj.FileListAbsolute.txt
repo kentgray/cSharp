@@ -1,0 +1,6 @@
+C:\Users\tonywittingerllc\Documents\GitHub\c#\Csharp Drills\Csharp Drills\bin\Debug\Csharp Drills.exe.config
+C:\Users\tonywittingerllc\Documents\GitHub\c#\Csharp Drills\Csharp Drills\bin\Debug\Csharp Drills.exe
+C:\Users\tonywittingerllc\Documents\GitHub\c#\Csharp Drills\Csharp Drills\bin\Debug\Csharp Drills.pdb
+C:\Users\tonywittingerllc\Documents\GitHub\c#\Csharp Drills\Csharp Drills\obj\Debug\Csharp Drills.exe
+C:\Users\tonywittingerllc\Documents\GitHub\c#\Csharp Drills\Csharp Drills\obj\Debug\Csharp Drills.pdb
+C:\Users\tonywittingerllc\Documents\GitHub\c#\Csharp Drills\Csharp Drills\obj\Debug\Csharp Drills.csprojResolveAssemblyReference.cache
