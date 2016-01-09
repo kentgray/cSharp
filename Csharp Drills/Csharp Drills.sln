@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp Drills", "Csharp Dri
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{0E5B0B14-FAB5-4ECB-8E45-7FD00900930C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication1", "WindowsFormsApplication1\WindowsFormsApplication1.csproj", "{F5545310-90EC-4792-9227-0CC52B4443FD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{0E5B0B14-FAB5-4ECB-8E45-7FD00900930C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0E5B0B14-FAB5-4ECB-8E45-7FD00900930C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0E5B0B14-FAB5-4ECB-8E45-7FD00900930C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5545310-90EC-4792-9227-0CC52B4443FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5545310-90EC-4792-9227-0CC52B4443FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5545310-90EC-4792-9227-0CC52B4443FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5545310-90EC-4792-9227-0CC52B4443FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

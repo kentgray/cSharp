@@ -1,0 +1,1 @@
+C:\Users\Owner\Documents\GitHub\cSharp\Csharp Drills\WinCalc\bin\Debug\WinCalc.exe.config
