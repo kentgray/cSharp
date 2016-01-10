@@ -1,0 +1,6 @@
+C:\Users\Owner\Documents\GitHub\cSharp\Csharp Drills\Delegates\bin\Debug\Delegates.exe.config
+C:\Users\Owner\Documents\GitHub\cSharp\Csharp Drills\Delegates\bin\Debug\Delegates.exe
+C:\Users\Owner\Documents\GitHub\cSharp\Csharp Drills\Delegates\bin\Debug\Delegates.pdb
+C:\Users\Owner\Documents\GitHub\cSharp\Csharp Drills\Delegates\obj\Debug\Delegates.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\cSharp\Csharp Drills\Delegates\obj\Debug\Delegates.exe
+C:\Users\Owner\Documents\GitHub\cSharp\Csharp Drills\Delegates\obj\Debug\Delegates.pdb
